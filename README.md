@@ -1,5 +1,6 @@
 # ALERT-ME-A-REMAINDER-APPLICATION
 remainder-app_gui
+
 1.ABSTRACT:
 
 Today, people have many activities throughout the day, ranging from a small thing to many other big things. Many of the applications on the smart phone is used to manage time efficiently throughout the day. But, most of the existing applications do not have social networking capabilities. In this project, we propose an application using GUI python. The app is designed to be an easy-to-use application with the main goal of helping users to remind about the special events in their busy life by providing timely alerts.
